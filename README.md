@@ -29,6 +29,7 @@ seaborn
 📷 Preview
 
 The notebook includes plots such as:
+
 Normal distribution
 
 Uniform distribution
